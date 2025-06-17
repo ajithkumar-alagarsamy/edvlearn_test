@@ -2,3 +2,7 @@ second commit -
 	add second_file.txt from local(branch_01) to repo(main).
 third commit -
 	changed second_file from local(main).
+Fourth commit -
+	after checkout branch_01.
+	get the latest changes from main using 'git pull origin main'.
+	changed second_file from local(branch_01).
