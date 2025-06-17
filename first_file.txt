@@ -1,0 +1,2 @@
+first commit -
+	add first_file.txt from local(main) to repo(main).
